@@ -34,7 +34,7 @@ let istoe=false;
 let tabproject=
 [
     {id:0,thumb:'/projects/gaming.jpg',title:'Gaming Shop',link:"https://gamingshop-eta.vercel.app/",ads:'See project features'},
-    {id:1,thumb:'/projects/tictactoe.JPG',title:'Tic-Tac-Toe Game',link:"https://tictactoe-eta.vercel.app/",ads:'See project features'}
+    {id:1,thumb:'/projects/tictactoe.JPG',title:'Tic-Tac-Toe Game',link:"https://tictactoe-five-neon.vercel.app/",ads:'See project features'}
 ];
 let gamingtab=
 [
