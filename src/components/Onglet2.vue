@@ -40,6 +40,7 @@ export default
     }
     .onglet2content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -83,6 +84,7 @@ export default
     }
     .onglet2content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -126,6 +128,7 @@ export default
     }
     .onglet2content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -169,6 +172,7 @@ export default
     }
     .onglet2content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -212,6 +216,7 @@ export default
     }
     .onglet2content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;

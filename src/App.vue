@@ -11,7 +11,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <h4>Front-end Web Developer</h4>
       </div>
       <div class="avatar">
-        <img src="/profile/me.png" alt="Avatar" width="200" height="200"/>
+        <img src="/profile/Me.png" alt="Avatar" width="200" height="200"/>
       </div>
     </div>
   </header>

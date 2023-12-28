@@ -95,6 +95,7 @@ export default
     .onglet3content
     {
         position:relative;
+		border-top:5px solid black;
         width:100%;
         height:600px;
         margin-right:auto;
@@ -125,7 +126,7 @@ export default
     .projects a:hover
     {
         text-decoration: underline;
-        color:#0000ff;
+        color:#009900;
     }
     .projects img
     {
@@ -185,6 +186,7 @@ export default
     }
     .onglet3content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -217,7 +219,7 @@ export default
     .projects a:hover
     {
         text-decoration: underline;
-        color:#0000ff;
+        color:#009900;
     }
     .projects img
     {
@@ -273,6 +275,7 @@ export default
     }
     .onglet3content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:1250px;
@@ -315,7 +318,7 @@ export default
     .projects a:hover
     {
         text-decoration: underline;
-        color:#0000ff;
+        color:#009900;
     }
     .projects:hover
     {
@@ -360,6 +363,7 @@ export default
     }
     .onglet3content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:1300px;
@@ -395,7 +399,7 @@ export default
     .projects a:hover
     {
         text-decoration: underline;
-        color:#0000ff;
+        color:#009900;
     }
     .projects img
     {
@@ -447,6 +451,7 @@ export default
     }
     .onglet3content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:1200px;
@@ -481,7 +486,7 @@ export default
     .projects a:hover
     {
         text-decoration: underline;
-        color:#0000ff;
+        color:#009900;
     }
     .projects img
     {
@@ -545,6 +550,7 @@ export default
     }
     .onglet3content
     {
+		border-top:5px solid black;
         position:relative;
         width:100%;
         height:1200px;
@@ -619,7 +625,7 @@ export default
     .projects a:hover
     {
         text-decoration: underline;
-        color:#0000ff;
+        color:#009900;
     }
 }
 </style>

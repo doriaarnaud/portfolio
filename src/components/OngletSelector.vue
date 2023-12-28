@@ -112,39 +112,40 @@ export default
     button#onglet1,button#onglet2,button#onglet3
     {
         border-radius: 10px 10px 0px 0px;
+		border:1px solid black;
     }
     .onglet1normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet2normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet3normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet1selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+		border-bottom:none;
+        color:#ffffff;
     }
     .onglet2selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
     .onglet3selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
 }
 @media (min-width: 992px) and (max-width: 1199px)
@@ -180,39 +181,40 @@ export default
     button#onglet1,button#onglet2,button#onglet3
     {
         border-radius: 10px 10px 0px 0px;
+		border:1px solid black;
     }
     .onglet1normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet2normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet3normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet1selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+		border-bottom:none;
+        color:#ffffff;
     }
     .onglet2selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
     .onglet3selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
 }
 @media (min-width: 768px) and (max-width: 991px)
@@ -248,39 +250,40 @@ export default
     button#onglet1,button#onglet2,button#onglet3
     {
         border-radius: 10px 10px 0px 0px;
+		border:1px solid black;
     }
     .onglet1normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet2normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet3normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet1selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+		border-bottom:none;
+        color:#ffffff;
     }
     .onglet2selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
     .onglet3selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
 }
 @media (min-width: 576px) and (max-width: 767px)
@@ -316,39 +319,40 @@ export default
     button#onglet1,button#onglet2,button#onglet3
     {
         border-radius: 10px 10px 0px 0px;
+		border:1px solid black;
     }
     .onglet1normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet2normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet3normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet1selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+		border-bottom:none;
+        color:#ffffff;
     }
     .onglet2selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
     .onglet3selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
 }
 @media (max-width: 575px)
@@ -384,39 +388,40 @@ export default
     button#onglet1,button#onglet2,button#onglet3
     {
         border-radius: 10px 10px 0px 0px;
+		border:1px solid black;
     }
     .onglet1normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet2normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet3normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet1selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+		border-bottom:none;
+        color:#ffffff;
     }
     .onglet2selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
     .onglet3selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
 }
 @media (max-width: 350px)
@@ -452,39 +457,40 @@ export default
     button#onglet1,button#onglet2,button#onglet3
     {
         border-radius: 10px 10px 0px 0px;
+		border:1px solid black;
     }
     .onglet1normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet2normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet3normal
     {
-        background-color: #000000;
-        color:#ffffff;
+        background-color: #ffffff;
+        color:#000000;
     }
     .onglet1selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+		border-bottom:none;
+        color:#ffffff;
     }
     .onglet2selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
     .onglet3selected
     {
-        background-color: #ffffff;
-        border-bottom:5px solid #000000;
-        color:#000000;
+        background-color: #000000;
+        border-bottom:none;
+        color:#ffffff;
     }
 }
 </style>

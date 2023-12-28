@@ -4,16 +4,17 @@
             <div class="description">
                 <p>
                     I started programming with low and high level languages. 
-					I am passionate in Web technologies and I have a knowledge in Front-end Web Development.<br/>
+					I am passionate by Web technologies and I have a knowledge in Front-end Web Development. 
+					If you have an idea about User Interface looks like these shown or something else, my contact is great open.<br/>
                     The tools and frameworks that I have used for projects are these following: 
 
                     <ul>
                         <li>npm package</li>
                         <li>Axios, for API interactions</li>
-						<li>Pinia, the official Vue.js State Manager</li>
+						<li>Pinia for Vue.js State Management</li>
                         <li>Vue.js 3</li>
                         <li>Vite</li>
-                        <li>Native JavaScript</li>
+                        <li>JavaScript</li>
                         <li>Css3</li>
                         <li>Html5</li>
                     </ul>
@@ -45,7 +46,7 @@ export default
     }
     .onglet1content
     {
-        
+        border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -107,7 +108,7 @@ export default
     }
     .onglet1content
     {
-        
+        border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -167,7 +168,7 @@ export default
     }
     .onglet1content
     {
-        
+        border-top:5px solid black;
         position:relative;
         width:100%;
         height:500px;
@@ -227,10 +228,10 @@ export default
     }
     .onglet1content
     {
-        
+        border-top:5px solid black;
         position:relative;
         width:100%;
-        height:500px;
+        height:550px;
         margin-left:0;
         margin-right:auto;
         padding-top:10px;
@@ -253,7 +254,7 @@ export default
     {
         float:left;
         position: absolute;
-        top:420px;
+        top:460px;
         left:20px;
     }
     .contact button
@@ -287,10 +288,10 @@ export default
     }
     .onglet1content
     {
-        
+        border-top:5px solid black;
         position:relative;
         width:100%;
-        height:500px;
+        height:550px;
         margin-left:0;
         margin-right:auto;
         padding-top:10px;
@@ -313,7 +314,7 @@ export default
     {
         float:left;
         position: absolute;
-        top:450px;
+        top:500px;
         left:5%;
     }
     .contact button
@@ -347,7 +348,7 @@ export default
     }
     .onglet1content
     {
-        
+        border-top:5px solid black;
         position:relative;
         width:100%;
         height:550px;
@@ -407,7 +408,7 @@ export default
     }
     .onglet1content
     {
-        
+        border-top:5px solid black;
         position:relative;
         width:100%;
         height:650px;
