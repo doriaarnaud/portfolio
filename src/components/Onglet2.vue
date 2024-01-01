@@ -15,7 +15,7 @@
 <script>
 let techtab=
 [
-    {id:0,logo:'/logos/vuejs.JPG',title:'Vue.js',textalt:'vuejs logo'},
+    {id:0,logo:'/logos/vuejs.JPG',title:'Vue.js',textalt:'vue3 logo'},
     {id:1,logo:'/logos/vite.JPG',title:'Vite',textalt:'vite logo'},
     {id:2,logo:'/logos/js.JPG',title:'JavaScript',textalt:'javascript logo'},
     {id:3,logo:'/logos/css3.JPG',title:'css3',textalt:'css3 logo'},
