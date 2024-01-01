@@ -126,7 +126,7 @@ export default
     .projects a:hover
     {
         text-decoration: underline;
-        color:#009900;
+        color:#00aa00;
     }
     .projects img
     {
