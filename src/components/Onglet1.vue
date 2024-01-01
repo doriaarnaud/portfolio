@@ -11,7 +11,7 @@
                     <ul>
                         <li>npm package</li>
                         <li>Axios, for API interactions</li>
-						<li>Pinia for Vue.js State Management</li>
+						<li>Pinia for Vuejs State Management</li>
                         <li>Vue.js 3</li>
                         <li>Vite</li>
                         <li>JavaScript</li>
